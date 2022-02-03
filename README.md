@@ -22,7 +22,7 @@ In order to further improve the performance of anomaly classification (achieving
 2.	Further, advanced embedding techniques, NLP libraries like Spacy, Genism or Neural network techniques and models like BERT, LSTM could be utilised for the project implementation with an expectation to achieve zero cases of False Negatives.
 
 Business Recommendation:
-The recommendation to the Business would be to have recommendation system based on the Anomalies identified by our model. This system could send messages, mail or a call to their customers and suggest them to re-examine the feedback provided. This process is expected to improve the credibility of the ratings for a product and provide better user experience, especially for new customers. This way businesses can draw data-driven insights to analyse the gaps and take necessary steps to boost their sale
+Business can have recommendation system based on the Anomalies identified by our model. This system could send messages, mail or a call to their customers and suggest them to re-examine the feedback provided. This process is expected to improve the credibility of the ratings for a product and provide better user experience, especially for new customers. This way businesses can draw data-driven insights to analyse the gaps and take necessary steps to boost their sale
 
 
 
