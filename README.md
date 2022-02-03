@@ -7,8 +7,8 @@ Steps Involved:
 •	Data Extraction 
 •	Data Preprocessing
 •	Data cleaning and Text pre-processing 
-•	Visualized reviewText using Word cloud
-•	Converting text data into vectors 
+•	Text Visualization: Word cloud
+•	Convert text data into vectors 
 •	Split data into train and test set
 •	Develop base model
 •	Hyperparameter Tuning
